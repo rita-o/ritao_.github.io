@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="90mm"
-   height="89.999992mm"
-   viewBox="0 0 90 89.999992"
+   width="45.671646mm"
+   height="45.671642mm"
+   viewBox="0 0 45.671646 45.671642"
    version="1.1"
    id="svg5"
    xml:space="preserve"
@@ -34,7 +34,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-3.9458872,-2.6529795)"><image
+     transform="translate(-3.9458869,-2.6529795)"><image
        width="122.27885"
        height="117.11505"
        preserveAspectRatio="none"
@@ -9949,4 +9949,7 @@ J5kSqVklVkmqyURVc5ryh6ZJ9Ovr61UjzDqsMmUsarZdRH4B03rTXa9AbosAAAAASUVORK5CYII=
        x="7.0154209"
        y="2.1958468"
        clip-path="url(#clipPath1636)"
-       transform="translate(-20.686567,-4.4328359)" /></g></svg>
+       transform="matrix(0.50746269,0,0,0.50746269,-8.5541642,-0.94280739)"
+       inkscape:export-filename="photoperfil.svg"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" /></g></svg>
