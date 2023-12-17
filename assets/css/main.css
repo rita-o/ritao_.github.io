@@ -2714,11 +2714,11 @@ input, select, textarea {
 
 	table {
 		margin: 0 0 2em 0;
-		width: 100%;
+		width: 80%;
 	}
 
 		table tbody tr {
-			border: solid 1px;
+			/* border: solid 1px; */
 			border-left: 0;
 			border-right: 0;
 		}
@@ -3556,8 +3556,8 @@ input, select, textarea {
 			border-color: #dddddd;
 		}
 
-			#main table tbody tr:nth-child(2n + 1) {
-				background-color: rgba(222, 222, 222, 0.25);
+			/* #main table tbody tr:nth-child(2n + 1) {
+				background-color: rgba(222, 222, 222, 0.25); */
 			}
 
 		#main table th {
