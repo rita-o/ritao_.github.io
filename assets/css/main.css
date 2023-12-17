@@ -2713,7 +2713,7 @@ input, select, textarea {
 	}
 
 	table {
-		margin: 0 0 2em 0;
+		margin: 0 0 0 0;
 		width: 80%;
 	}
 
@@ -2724,7 +2724,7 @@ input, select, textarea {
 		}
 
 		table td {
-			padding: 0.75em 0.75em;
+			padding: 0.4em 0.5em;
 		}
 
 		table th {
