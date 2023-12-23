@@ -2825,6 +2825,8 @@ input, select, textarea {
 			.features li .image img {
 			    max-width: 40%;
 			    height: auto;
+			    height: 100px; /* Set a fixed height for the images */
+    		            object-fit: cover; /* Maintain aspect ratio and cover the container */
 			}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
