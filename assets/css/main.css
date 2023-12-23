@@ -2822,6 +2822,10 @@ input, select, textarea {
 			margin-top: 3em;
 			padding: 0;
 		}
+			.features li .image img {
+			    max-width: 40%;
+			    height: auto;
+			}
 
 			.features li:nth-child(1), .features li:nth-child(2), .features li:nth-child(3) {
 				margin-top: 0;
